@@ -2,3 +2,14 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.evencounter {
+  margin: 10px auto;
+  width: fit-content;
+  background-color: green;
+}
+.oddcounter {
+  margin: 10px auto;
+  width: fit-content;
+  background-color: red;
+}
